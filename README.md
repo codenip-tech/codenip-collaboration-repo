@@ -2,5 +2,4 @@
 
 This repo belongs to Moein and Juan from Codenip
 
-Twitch account: https://twitch.tv/codenip
-aaa
+Twitch account: https://twitch.tv/codenip_devs
